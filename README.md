@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **lakshyasoni0925@gmail.com** For Collaboration/Project or 
 - 👯 I’m looking to collaborate on: devlabs
 - 📫 How to reach me: lakshyasoni0925@gmail.com
 - 😄 Pronouns:Laksh
-- ⚡ Fun fact: I Love Tech and Tech Love Me
+- ⚡ Fun fact: I Love Tech and Tech Loves Me
 
 <!-- Snake Game Repo View -->
 
