@@ -15,29 +15,28 @@
 
 ### 🚀 What I'm doing
 
-- 🔭 Building **DevLabs** and mentoring at **@OpenLake**
+- 👨‍🏫 Mentoring at **[@OpenLake](https://github.com/OpenLake)**
+- 🧑‍💻 Mentee at **DevLabs**
 - 🐍 Working with **Django, Python, Docker & Redis** on the backend
 - 🌱 Learning **open-source contribution** — currently reading Django's migrations internals
 - 💬 Ask me about **Django, deployment constraints, or shipping under a deadline**
 - 📫 **lakshyasoni0925@gmail.com**
 
----
-
 ### 🍽️ Featured — Pakadarpanalaya (IIT Bhilai Mess)
 
 > **1000+ students** use it daily for live mess menus.
 
-Built the backend in **Django** with **Redis caching via Docker**, then discovered the campus server couldn't host a backend at all — so I rebuilt the entire thing in **React + Vite** in 10 days and shipped it on **15 August**.
+I first built it in **Django**, with **Redis caching running in Docker** (Redis won't install natively on Windows, so I ran it as a container). Then I learned the campus server couldn't host a backend at all — so that Django version stayed unfinished, and I rebuilt the whole site in **React + Vite** in 10 days, shipping it on **15 August**.
 
-🔗 **[Live site](https://messwebsite-react.vercel.app)** · 📦 [Repo](https://github.com/0770-Lakshya/Messwebsite-react)
-
----
+🌐 **[Live — open to everyone](https://messwebsite-react.vercel.app)**
+🏫 `mess.iitbhilai.ac.in` — IIT Bhilai intranet only
+📦 [Repo](https://github.com/0770-Lakshya/Messwebsite-react)
 
 ### 🛠️ Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Messwebsite-react](https://github.com/0770-Lakshya/Messwebsite-react)** | Live mess menu for IIT Bhilai, 1000+ users | React, Vite, Vercel |
+| **[Messwebsite-react](https://github.com/0770-Lakshya/Messwebsite-react)** | Live mess menu for IIT Bhilai, 1000+ users (public mirror of the intranet site) | React, Vite, Vercel |
 | **[CompassAI](https://github.com/0770-Lakshya/CompassAI)** | AI widget that navigates website visitors | HTML, JS, AI |
 | **[OpenLake Website](https://github.com/OpenLake/OpenLake--Website)** | OpenLake's official site | TypeScript |
 | **[Spend Wisely](https://github.com/0770-Lakshya/Expense-tracker-spend-wisely)** | Expense tracker | HTML, JS |
