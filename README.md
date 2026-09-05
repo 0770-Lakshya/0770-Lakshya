@@ -12,7 +12,7 @@
 
 ```console
 Lakshya Soni — backend developer
-IIT Bhilai · Mentor @OpenLake · Mess Website Owner @IITBhilai
+IIT Bhilai · Mentor @OpenLake · Mess website Owner@IITBhilai
 
 I like problems where the obvious fix is the wrong one.
 ```
@@ -62,14 +62,14 @@ A core developer hit the same wall five years ago.
 ## `$ gh stats`
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=0770-Lakshya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com/?user=0770-Lakshya&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=0770-Lakshya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=0770-Lakshya&theme=tokyonight&hide_border=true&disable_animations=true" height="165" />
 </div>
 
-## `$ ./snake --eat-contributions`
+## `$ ./snake`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/0770-Lakshya/0770-Lakshya/output/github-snake-dark.svg" alt="Snake eating my contribution graph" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ```console
