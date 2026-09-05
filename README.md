@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshya Soni</h1>
 <p align="center">
-  Backend & Full-Stack Developer · Django • Python • React<br/>
+  Backend &amp; Full-Stack Developer · Django • Python • React<br/>
   Engineering student @ IIT Bhilai · Mentor @ <a href="https://github.com/OpenLake">OpenLake</a>
 </p>
 
@@ -9,6 +9,10 @@
   <a href="mailto:lakshyasoni0925@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/LakshyaSon71130"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
   <a href="https://instagram.com/i.am.Lakshyasoni"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -22,6 +26,8 @@
 - 💬 Ask me about **Django, deployment constraints, or shipping under a deadline**
 - 📫 **lakshyasoni0925@gmail.com**
 
+---
+
 ### 🍽️ Featured — Pakadarpanalaya (IIT Bhilai Mess)
 
 > **1000+ students** use it daily for live mess menus.
@@ -31,6 +37,8 @@ I first built it in **Django**, with **Redis caching running in Docker** (Redis 
 🌐 **[Live — open to everyone](https://messwebsite-react.vercel.app)**
 🏫 `mess.iitbhilai.ac.in` — IIT Bhilai intranet only
 📦 [Repo](https://github.com/0770-Lakshya/Messwebsite-react)
+
+---
 
 ### 🛠️ Projects
 
@@ -45,7 +53,7 @@ I first built it in **Django**, with **Redis caching running in Docker** (Redis 
 
 ### 🌍 Open Source
 
-Contributing to **[Django](https://github.com/django/django)** — completed the contributor tutorial, and currently investigating [ticket #31255](https://code.djangoproject.com/ticket/31255) in the migrations optimizer. Active in the [Django Forum](https://forum.djangoproject.com/).
+Contributing to **[Django](https://github.com/django/django)** — completed the contributor tutorial, and currently investigating [ticket #31255](https://code.djangoproject.com/ticket/31255) in the migrations optimizer. Active on the [Django Forum](https://forum.djangoproject.com/).
 
 ---
 
@@ -74,16 +82,6 @@ Contributing to **[Django](https://github.com/django/django)** — completed the
   <img src="https://github-readme-stats.shion.dev/api?username=0770-Lakshya&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://streak-stats.demolab.com/?user=0770-Lakshya&theme=cobalt&hide_border=false" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0770-Lakshya&theme=cobalt&hide_border=false&layout=compact" />
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0770-Lakshya&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
