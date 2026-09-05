@@ -1,92 +1,80 @@
-<h1 align="center">Hi 👋, I'm Lakshya Soni</h1>
-<p align="center">
-  Backend &amp; Full-Stack Developer · Django • Python • React<br/>
-  Engineering student @ IIT Bhilai · Mentor @ <a href="https://github.com/OpenLake">OpenLake</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,100:00c6ff&height=230&section=header&text=Lakshya%20Soni&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Docker&descSize=18&descAlignY=58" width="100%" />
 
 <div align="center">
-  <a href="https://linkedin.com/in/lakshya-soni-57a71737b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lakshyasoni0925@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/LakshyaSon71130"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://instagram.com/i.am.Lakshyasoni"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+
+<img src="https://img.shields.io/badge/IIT_Bhilai-00c6ff?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Mentor_@OpenLake-0072ff?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=0770-Lakshya&style=for-the-badge&color=00c6ff&label=VIEWS" />
+
+<a href="https://linkedin.com/in/lakshya-soni-57a71737b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:lakshyasoni0925@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://x.com/LakshyaSon71130"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
 </div>
+
+## `$ whoami`
+
+```console
+Lakshya Soni — backend developer
+IIT Bhilai · Mentor @OpenLake · Mess Website Owner @IITBhilai
+
+I like problems where the obvious fix is the wrong one.
+```
+
+## `$ cat now.txt`
+
+```console
+Reading django/db/migrations/ — the autodetector and optimizer.
+
+Ticket #31255: the migration optimizer leaves a redundant
+RemoveField behind. DeleteModel only knows a model's *name*,
+never its fields, so it must assume it references anything.
+
+Wrote the obvious fix. It broke five tests.
+A core developer hit the same wall five years ago.
+```
+
+🧵 [My thread on the Django Forum](https://forum.djangoproject.com/t/45932)
+
+## `$ ls -la ~/projects`
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<a href="https://github.com/0770-Lakshya/Messwebsite-react"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=Messwebsite-react&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/0770-Lakshya/CompassAI"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=CompassAI&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/0770-Lakshya/Expense-tracker-spend-wisely"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=Expense-tracker-spend-wisely&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/OpenLake/OpenLake--Website"><img src="https://github-readme-stats.shion.dev/api/pin/?username=OpenLake&repo=OpenLake--Website&theme=tokyonight&hide_border=true" /></a>
 </div>
 
----
+## `$ git log --oneline pakadarpanalaya`
 
-### 🚀 What I'm doing
+```console
+15aug26  ship it — 1000+ students on day one
+05aug26  rewrite it in react + vite 
+```
 
-- 👨‍🏫 Mentoring at **[@OpenLake](https://github.com/OpenLake)**
-- 🧑‍💻 Mentee at **DevLabs**
-- 🐍 Working with **Django, Python, Docker & Redis** on the backend
-- 🌱 Learning **open-source contribution** — currently reading Django's migrations internals
-- 💬 Ask me about **Django, deployment constraints, or shipping under a deadline**
-- 📫 **lakshyasoni0925@gmail.com**
+> 🌐 Live for everyone: **[messwebsite-react.vercel.app](https://messwebsite-react.vercel.app)**
+> 🏫 On campus: `mess.iitbhilai.ac.in` *(intranet only)*
 
----
-
-### 🍽️ Featured — Pakadarpanalaya (IIT Bhilai Mess)
-
-> **1000+ students** use it daily for live mess menus.
-
-I first built it in **Django**, with **Redis caching running in Docker** (Redis won't install natively on Windows, so I ran it as a container). Then I learned the campus server couldn't host a backend at all — so that Django version stayed unfinished, and I rebuilt the whole site in **React + Vite** in 10 days, shipping it on **15 August**.
-
-🌐 **[Live — open to everyone](https://messwebsite-react.vercel.app)**
-🏫 `mess.iitbhilai.ac.in` — IIT Bhilai intranet only
-📦 [Repo](https://github.com/0770-Lakshya/Messwebsite-react)
-
----
-
-### 🛠️ Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Messwebsite-react](https://github.com/0770-Lakshya/Messwebsite-react)** | Live mess menu for IIT Bhilai, 1000+ users (public mirror of the intranet site) | React, Vite, Vercel |
-| **[CompassAI](https://github.com/0770-Lakshya/CompassAI)** | AI widget that navigates website visitors | HTML, JS, AI |
-| **[OpenLake Website](https://github.com/OpenLake/OpenLake--Website)** | OpenLake's official site | TypeScript |
-| **[Spend Wisely](https://github.com/0770-Lakshya/Expense-tracker-spend-wisely)** | Expense tracker | HTML, JS |
-
----
-
-### 🌍 Open Source
-
-Contributing to **[Django](https://github.com/django/django)** — completed the contributor tutorial, and currently investigating [ticket #31255](https://code.djangoproject.com/ticket/31255) in the migrations optimizer. Active on the [Django Forum](https://forum.djangoproject.com/).
-
----
-
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+## `$ stack --list`
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=0770-Lakshya&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=0770-Lakshya&theme=cobalt&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0770-Lakshya&theme=cobalt&hide_border=false&layout=compact" />
+<img src="https://skillicons.dev/icons?i=python,django,docker,redis,postgres&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,html&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,gcp&theme=dark" />
 </div>
 
----
+## `$ gh stats`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><br/>
-  <img src="https://komarev.com/ghpvc/?username=0770-Lakshya&icon=0&color=0" />
+<img src="https://github-readme-stats.shion.dev/api?username=0770-Lakshya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=0770-Lakshya&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
+## `$ ./snake --eat-contributions`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/0770-Lakshya/0770-Lakshya/output/github-snake-dark.svg" alt="Snake eating my contribution graph" />
+</div>
+
+```console
+lakshya@iit-bhilai:~$ exit
+logout
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" />
