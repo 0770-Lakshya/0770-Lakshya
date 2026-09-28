@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IIT_Bhilai-00c6ff?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Mentor_@OpenLake-0072ff?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=0770-Lakshya&style=for-the-badge&color=00c6ff&label=VIEWS" />
+<img src="https://img.shields.io/badge/IIT_Bhilai-00c6ff?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Intern_@FlyRank-0072ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/Website_Head_@Meraz_7.0-00c6ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/Mentor_@OpenLake-0072ff?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=0770-Lakshya&style=for-the-badge&color=00c6ff&label=VIEWS" />
 
 <a href="https://linkedin.com/in/lakshya-soni-57a71737b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:lakshyasoni0925@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://x.com/LakshyaSon71130"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
@@ -11,8 +11,7 @@
 ## `$ whoami`
 
 ```console
-Lakshya Soni — backend developer
-IIT Bhilai · Mentor @OpenLake · Mess website Owner@IITBhilai
+Lakshya Soni — backend developer @ IIT Bhilai
 
 I like problems where the obvious fix is the wrong one.
 ```
@@ -20,14 +19,10 @@ I like problems where the obvious fix is the wrong one.
 ## `$ cat now.txt`
 
 ```console
-Reading django/db/migrations/ — the autodetector and optimizer.
-
-Ticket #31255: the migration optimizer leaves a redundant
-RemoveField behind. DeleteModel only knows a model's *name*,
-never its fields, so it must assume it references anything.
-
-Wrote the obvious fix. It broke five tests.
-A core developer hit the same wall five years ago.
+AI Intern         @FlyRank AI
+Website Head      @Meraz 7.0      — IIT Bhilai's annual cultural fest
+Mentor            @OpenLake       — Leaderboard-Pro
+Owner & Incharge  Mess website    — mess.iitbhilai.ac.in
 ```
 
 🧵 [My thread on the Django Forum](https://forum.djangoproject.com/t/45932)
@@ -36,6 +31,7 @@ A core developer hit the same wall five years ago.
 
 <div align="center">
 <a href="https://github.com/0770-Lakshya/Messwebsite-react"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=Messwebsite-react&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/OpenLake/Leaderboard-Pro"><img src="https://github-readme-stats.shion.dev/api/pin/?username=OpenLake&repo=Leaderboard-Pro&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/0770-Lakshya/CompassAI"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=CompassAI&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/0770-Lakshya/Expense-tracker-spend-wisely"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=Expense-tracker-spend-wisely&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/OpenLake/OpenLake--Website"><img src="https://github-readme-stats.shion.dev/api/pin/?username=OpenLake&repo=OpenLake--Website&theme=tokyonight&hide_border=true" /></a>
