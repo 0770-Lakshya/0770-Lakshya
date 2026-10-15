@@ -1,4 +1,4 @@
-0<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,100:00c6ff&height=230&section=header&text=Lakshya%20Soni&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Docker&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,100:00c6ff&height=230&section=header&text=Lakshya%20Soni&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Docker&descSize=18&descAlignY=58" width="100%" />
 
 <div align="center">
 
