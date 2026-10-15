@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,100:00c6ff&height=230&section=header&text=Lakshya%20Soni&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Docker&descSize=18&descAlignY=58" width="100%" />
+0<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,100:00c6ff&height=230&section=header&text=Lakshya%20Soni&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Django%20%C2%B7%20React%20%C2%B7%20Docker&descSize=18&descAlignY=58" width="100%" />
 
 <div align="center">
 
@@ -30,11 +30,14 @@ Owner & Incharge  Mess website    — mess.iitbhilai.ac.in
 ## `$ ls -la ~/projects`
 
 <div align="center">
+<a href="https://github.com/kansalakshat/Meraz/"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kansalakshat&repo=Meraz&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/0770-Lakshya/Messwebsite-react"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=Messwebsite-react&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/OpenLake/Leaderboard-Pro"><img src="https://github-readme-stats.shion.dev/api/pin/?username=OpenLake&repo=Leaderboard-Pro&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/0770-Lakshya/CompassAI"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=CompassAI&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/0770-Lakshya/Expense-tracker-spend-wisely"><img src="https://github-readme-stats.shion.dev/api/pin/?username=0770-Lakshya&repo=Expense-tracker-spend-wisely&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/OpenLake/OpenLake--Website"><img src="https://github-readme-stats.shion.dev/api/pin/?username=OpenLake&repo=OpenLake--Website&theme=tokyonight&hide_border=true" /></a>
+
+  
 </div>
 
 ## `$ git log --oneline pakadarpanalaya`
